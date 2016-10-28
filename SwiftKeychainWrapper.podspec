@@ -1,5 +1,6 @@
+
 Pod::Spec.new do |s|
-  s.name = 'SwiftKeychainWrapper'
+  s.name = 'VZTSwiftKeychainWrapper'
   s.version = '2.2.1'
   s.summary = 'Wrapper for the iOS Keychain written in Swift.'
   s.description = <<-DESC
@@ -7,7 +8,7 @@ Pod::Spec.new do |s|
 
 
  DESC
-  s.module_name = "SwiftKeychainWrapper"
+  s.module_name = "VZTSwiftKeychainWrapper"
   s.homepage = 'https://github.com/jrendel/SwiftKeychainWrapper'
   s.license = 'MIT'
   
